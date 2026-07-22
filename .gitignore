@@ -1,0 +1,18 @@
+# Backend (Java/Spring Boot)
+backend/target/
+backend/*.iml
+backend/.idea/
+backend/.mvn/wrapper/maven-wrapper.jar
+
+# Frontend (Next.js)
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# General
+.DS_Store
+*.log
